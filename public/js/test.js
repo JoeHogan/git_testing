@@ -4,3 +4,6 @@ var test 2 = 'my compromise';
 var someOtherFunction = function(){
 	return 'boo!';
 }
+var test3 = function(){
+	return 'yay!';
+}
